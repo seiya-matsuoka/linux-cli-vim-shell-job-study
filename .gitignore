@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.swp
+*.swo
+
+# Env
+.env
+.env.*
+
+# Python cache just in case
+__pycache__/
+
+# Node just in case
+node_modules/
