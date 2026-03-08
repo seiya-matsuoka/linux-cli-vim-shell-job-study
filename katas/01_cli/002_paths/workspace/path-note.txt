@@ -1,0 +1,5 @@
+absolute path
+relative path
+home directory
+current directory
+parent directory
