@@ -1,0 +1,5 @@
+error: file not found
+info: process started
+error: permission denied
+info: process completed
+error: timeout occurred
