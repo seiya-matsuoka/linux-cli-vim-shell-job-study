@@ -1,0 +1,5 @@
+current pwd:
+linux-cli-vim-shell-job-study/katas/01_cli/002_paths/workspace
+
+realpath:
+linux-cli-vim-shell-job-study/katas/01_cli/002_paths/workspace/path-note.txt
