@@ -1,0 +1,5 @@
+learn pwd
+learn ls
+learn cp
+learn mv
+learn rm
