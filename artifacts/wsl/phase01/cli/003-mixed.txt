@@ -1,0 +1,2 @@
+app.log
+ls: cannot access 'not-exist-file': No such file or directory
