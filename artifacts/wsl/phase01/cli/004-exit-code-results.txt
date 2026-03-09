@@ -1,0 +1,11 @@
+true =>
+0
+
+false =>
+1
+
+ls existing =>
+0
+
+ls missing =>
+2
