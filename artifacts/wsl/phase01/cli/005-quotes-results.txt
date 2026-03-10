@@ -1,0 +1,8 @@
+double quote:
+Hello Seiya
+
+single quote:
+Hello $name
+
+escaped:
+"quoted"
