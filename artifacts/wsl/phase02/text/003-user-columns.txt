@@ -1,0 +1,6 @@
+name,department
+Seiya,dev
+Aya,qa
+Taro,dev
+Hana,ops
+Ryo,qa

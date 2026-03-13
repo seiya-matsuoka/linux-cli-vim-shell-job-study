@@ -1,0 +1,3 @@
+4:2026-03-01 09:01:20 ERROR invalid user input
+6:2026-03-01 09:03:00 ERROR file not found
+9:2026-03-01 09:04:55 ERROR permission denied

@@ -1,0 +1,3 @@
+./search_root/app/server.log
+./search_root/app/worker.log
+./search_root/archive/old.log

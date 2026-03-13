@@ -1,0 +1,2 @@
+./app.log:3:2026-03-01 09:01:10 WARN retry started
+./app.log:7:2026-03-01 09:03:30 WARN timeout near limit

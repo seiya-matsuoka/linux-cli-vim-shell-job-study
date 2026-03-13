@@ -1,0 +1,4 @@
+      3 sato
+      2 suzuki
+      1 tanaka
+      1 yamada
