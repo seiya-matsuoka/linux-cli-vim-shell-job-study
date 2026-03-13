@@ -1,0 +1,12 @@
+--- app_v1.conf	2026-03-13 22:06:54.772738800 +0900
++++ app_v2.conf	2026-03-13 22:07:01.116861500 +0900
+@@ -1,5 +1,5 @@
+ APP_NAME=sample-app
+-PORT=8080
+-LOG_LEVEL=INFO
+-DB_HOST=localhost
+-FEATURE_X=false
++PORT=8081
++LOG_LEVEL=DEBUG
++DB_HOST=127.0.0.1
++FEATURE_X=true
