@@ -1,0 +1,6 @@
+date,store,category,amount
+2026-03-01,tokyo,book,1200
+2026-03-01,tokyo,game,5000
+2026-03-01,osaka,book,900
+2026-03-02,tokyo,book,1400
+2026-03-02,osaka,gadget,8800
