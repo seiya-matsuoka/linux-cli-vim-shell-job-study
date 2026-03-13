@@ -1,0 +1,6 @@
+order_id,user_id,category,amount
+1001,u001,book,1200
+1002,u002,game,5800
+1003,u001,book,900
+1004,u003,gadget,12000
+1005,u002,book,1500
