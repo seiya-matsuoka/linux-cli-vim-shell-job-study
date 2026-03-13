@@ -1,0 +1,9 @@
+--- users_old.csv	2026-03-13 22:07:40.553210700 +0900
++++ users_new.csv	2026-03-13 22:07:49.476014600 +0900
+@@ -1,4 +1,5 @@
+ id,name,status
+ 1,Seiya,active
+-2,Aya,active
++2,Aya,inactive
+ 3,Taro,inactive
++4,Hana,active

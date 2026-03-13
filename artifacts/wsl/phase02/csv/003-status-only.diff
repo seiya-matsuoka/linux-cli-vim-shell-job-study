@@ -1,0 +1,9 @@
+--- old_status.csv	2026-03-14 00:08:37.816671000 +0900
++++ new_status.csv	2026-03-14 00:08:37.828807700 +0900
+@@ -1,4 +1,5 @@
+ id,status
+ 1,active
+-2,active
++2,inactive
+ 3,inactive
++4,active
