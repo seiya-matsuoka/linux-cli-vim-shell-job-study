@@ -1,0 +1,7 @@
+10.0.0.1 GET /index 200
+10.0.0.2 GET /health 200
+10.0.0.1 POST /login 401
+10.0.0.3 GET /products 200
+10.0.0.2 POST /checkout 500
+10.0.0.1 GET /products 200
+10.0.0.3 GET /products 404

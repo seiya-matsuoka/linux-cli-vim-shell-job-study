@@ -1,0 +1,7 @@
+2026-03-02 10:00:00 INFO boot completed
+2026-03-02 10:01:15 ERROR login failed for user u100
+2026-03-02 10:01:40 INFO health check ok
+2026-03-02 10:02:10 WARN retry started
+2026-03-02 10:02:50 ERROR payment timeout for order 5001
+2026-03-02 10:03:05 INFO retry succeeded
+2026-03-02 10:04:20 ERROR file upload rejected
