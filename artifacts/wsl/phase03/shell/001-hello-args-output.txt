@@ -1,0 +1,17 @@
+Hello, guest
+Argument count: 0
+All args: 
+All args with quotes:
+
+Hello, Seiya
+Argument count: 1
+All args: Seiya
+All args with quotes:
+[Seiya]
+
+Hello, Seiya Matsuoka
+Argument count: 2
+All args: Seiya Matsuoka backend engineer
+All args with quotes:
+[Seiya Matsuoka]
+[backend engineer]

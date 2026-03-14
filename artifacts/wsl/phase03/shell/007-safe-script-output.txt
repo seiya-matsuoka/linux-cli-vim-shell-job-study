@@ -1,0 +1,4 @@
+start script
+name=guest
+script finished
+cleanup called

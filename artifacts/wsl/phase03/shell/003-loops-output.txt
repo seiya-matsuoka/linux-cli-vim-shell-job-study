@@ -1,0 +1,9 @@
+user: Seiya
+user: Aya
+user: Taro
+user: Hana
+
+user from file: Seiya
+user from file: Aya
+user from file: Taro
+user from file: Hana

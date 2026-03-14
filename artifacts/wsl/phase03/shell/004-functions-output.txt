@@ -1,0 +1,2 @@
+Hello, Seiya
+sum result: 30
