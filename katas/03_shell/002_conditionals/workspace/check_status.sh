@@ -3,9 +3,9 @@
 status="${1:-unknown}"
 
 if [ "$status" = "active" ]; then
-  echo "status is active"
+	echo "status is active"
 elif [ "$status" = "inactive" ]; then
-  echo "status is inactive"
+	echo "status is inactive"
 else
-  echo "status is unknown"
+	echo "status is unknown"
 fi

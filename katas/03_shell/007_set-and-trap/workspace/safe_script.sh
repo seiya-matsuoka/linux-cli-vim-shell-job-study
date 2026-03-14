@@ -2,7 +2,7 @@
 set -euo pipefail
 
 cleanup() {
-  echo "cleanup called"
+	echo "cleanup called"
 }
 
 trap cleanup EXIT
@@ -13,6 +13,6 @@ echo "start script"
 echo "name=${name}"
 
 tmp_file="temp-output.txt"
-echo "temporary data" > "$tmp_file"
+echo "temporary data" >"$tmp_file"
 
 echo "script finished"
