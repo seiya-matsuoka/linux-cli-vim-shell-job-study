@@ -1,0 +1,6 @@
+[INFO] found command: git
+[INFO] found command: vim
+[INFO] found command: rg
+[INFO] found command: jq
+[INFO] found command: shellcheck
+[INFO] found command: shfmt

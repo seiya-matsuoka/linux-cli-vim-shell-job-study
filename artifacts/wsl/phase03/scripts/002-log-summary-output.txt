@@ -1,0 +1,4 @@
+[INFO] summarizing log: katas/02_text/001_grep-rg/workspace/app.log
+ERROR=3
+WARN=2
+INFO=4

@@ -1,0 +1,4 @@
+[INFO] building status report: katas/02_csv/001_basic-inspect/workspace/members.csv
+      2 backend
+      1 infra
+      2 qa
