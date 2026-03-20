@@ -1,0 +1,22 @@
+● ssh.service - OpenBSD Secure Shell server
+     Loaded: loaded (/usr/lib/systemd/system/ssh.service; enabled; preset: enabled)
+     Active: active (running) since Thu 2026-03-19 15:31:36 UTC; 20h ago
+TriggeredBy: ● ssh.socket
+       Docs: man:sshd(8)
+             man:sshd_config(5)
+   Main PID: 1254 (sshd)
+      Tasks: 1 (limit: 4598)
+     Memory: 6.0M (peak: 7.0M)
+        CPU: 147ms
+     CGroup: /system.slice/ssh.service
+             └─1254 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"
+
+ 3月 19 15:31:36 ubuntu-server-phase04 systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...
+ 3月 19 15:31:36 ubuntu-server-phase04 sshd[1254]: Server listening on 0.0.0.0 port 22.
+ 3月 19 15:31:36 ubuntu-server-phase04 sshd[1254]: Server listening on :: port 22.
+ 3月 19 15:31:36 ubuntu-server-phase04 systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+ 3月 19 15:33:21 ubuntu-server-phase04 sshd[4044]: Connection closed by <x> port <x>
+ 3月 20 07:31:48 ubuntu-server-phase04 sshd[5183]: Accepted password for <x> from <x> port <x> ssh2
+ 3月 20 07:31:48 ubuntu-server-phase04 sshd[5183]: pam_unix(sshd:session): session opened for user <x>(uid=1000) by <x>(uid=0)
+ 3月 20 07:32:50 ubuntu-server-phase04 sshd[5633]: Accepted password for <x> from <x> port <x> ssh2
+ 3月 20 07:32:50 ubuntu-server-phase04 sshd[5633]: pam_unix(sshd:session): session opened for user <x>(uid=1000) by <x>(uid=0)
