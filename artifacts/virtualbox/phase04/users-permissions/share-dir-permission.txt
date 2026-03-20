@@ -1,0 +1,1 @@
+drwxrwsr-x 2 root phase4ops 4096  3月 20 12:42 /srv/phase4/share
