@@ -1,0 +1,24 @@
+[Phase 4 Environment Setup - VM Spec]
+
+VM Name:
+ubuntu-server-phase04
+
+Guest OS:
+Ubuntu Server 24.04 LTS
+
+Memory:
+4096 MB
+
+CPU:
+2
+
+Disk:
+20 GB / 可変
+
+Network Adapter 1:
+NAT
+
+Notes:
+- SSH 接続確認済み
+- TeraTerm / WinSCP 接続確認済み
+- 今後の systemd / journalctl / /var/log 学習に使用する

@@ -1,0 +1,15 @@
+[Phase 4 Environment Setup - SSH Service Check]
+
+Expected Commands:
+    sudo systemctl status ssh --no-pager
+    sudo systemctl is-enabled ssh
+    sudo ss -tlnp | grep ':22'
+    whoami
+    hostname
+    pwd
+
+Result Summary:
+- openssh-server installed: <yes/no>
+- ssh service running: <yes/no>
+- ssh service enabled: <yes/no>
+- port 22 listening: <yes/no>

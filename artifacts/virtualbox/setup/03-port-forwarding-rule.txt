@@ -1,0 +1,23 @@
+[Phase 4 Environment Setup - Port Forwarding Rule]
+
+VirtualBox Network:
+- Adapter 1: NAT
+
+Port Forwarding Rule:
+- Name: ssh
+- Protocol: TCP
+- Host IP: 127.0.0.1
+- Host Port: 2222
+- Guest IP: 空欄
+- Guest Port: 22
+
+Purpose:
+Windows 側から SSH / SFTP でゲスト Linux へ接続するため
+
+Connection Target:
+- TeraTerm: 127.0.0.1:2222
+- WinSCP: 127.0.0.1:2222
+
+Notes:
+- WSL 側から localhost 経由での接続は、今回の接続確認対象には含めない
+- GUI クライアント接続成功をもって環境構築完了とみなす
