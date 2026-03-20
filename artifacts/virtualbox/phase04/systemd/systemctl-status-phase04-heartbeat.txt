@@ -1,0 +1,8 @@
+● phase04-heartbeat.service - Phase 4 Heartbeat Service
+     Loaded: loaded (/etc/systemd/system/phase04-heartbeat.service; enabled; preset: enabled)
+     Active: active (exited) since Fri 2026-03-20 13:00:00 UTC; 42s ago
+   Main PID: 7741 (code=exited, status=0/SUCCESS)
+        CPU: 52ms
+
+ 3月 20 13:00:00 ubuntu-server-phase04 systemd[1]: Starting phase04-heartbeat.service - Phase 4 Heartbeat Service...
+ 3月 20 13:00:00 ubuntu-server-phase04 systemd[1]: Finished phase04-heartbeat.service - Phase 4 Heartbeat Service.
