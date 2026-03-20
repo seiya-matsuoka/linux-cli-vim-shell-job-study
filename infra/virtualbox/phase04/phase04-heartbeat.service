@@ -1,0 +1,11 @@
+[Unit]
+Description=Phase 4 Heartbeat Service
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/phase04-heartbeat.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
