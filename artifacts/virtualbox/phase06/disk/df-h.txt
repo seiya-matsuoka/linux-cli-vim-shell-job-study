@@ -1,0 +1,7 @@
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  1.6M  390M   1% /run
+/dev/sda2        20G  6.9G   12G  38% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           392M  140K  392M   1% /run/user/1000
+/dev/sr0         59M   59M     0 100% /media/<x>/VBox_GAs_7.1.8
