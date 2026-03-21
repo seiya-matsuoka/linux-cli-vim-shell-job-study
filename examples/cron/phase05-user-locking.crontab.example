@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+* * * * * /usr/local/bin/phase05-locking-job.sh 90 >> /srv/phase05/logs/cron-user-locking.stdout.log 2>> /srv/phase05/logs/cron-user-locking.stderr.log

@@ -1,0 +1,8 @@
+[Unit]
+Description=Phase 5 Failing Job
+
+[Service]
+Type=oneshot
+User=<vm-user>
+WorkingDirectory=/home/<vm-user>
+ExecStart=/usr/local/bin/phase05-failing-job.sh systemd-manual-fail
