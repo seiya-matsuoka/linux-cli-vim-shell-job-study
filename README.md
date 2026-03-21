@@ -1,4 +1,4 @@
-# Linux CLI Vim Shell Job - Study
+# Linux / CLI / Vim / Shell / Job - Study
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-Study-FCC624?logo=linux&logoColor=000000">
