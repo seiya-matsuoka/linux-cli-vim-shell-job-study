@@ -1,0 +1,7 @@
+● phase05-status-job.timer - Run Phase 5 Status Job every minute
+     Loaded: loaded (/etc/systemd/system/phase05-status-job.timer; enabled; preset: enabled)
+     Active: active (waiting) since Sat 2026-03-21 06:51:42 UTC; 4min 50s ago
+    Trigger: Sat 2026-03-21 06:57:00 UTC; 26s left
+   Triggers: ● phase05-status-job.service
+
+ 3月 21 06:51:42 ubuntu-server-phase04 systemd[1]: Started phase05-status-job.timer - Run Phase 5 Status Job every minute.

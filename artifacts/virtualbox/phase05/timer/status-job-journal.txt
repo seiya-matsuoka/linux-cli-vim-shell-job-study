@@ -1,0 +1,20 @@
+ 3月 21 06:52:28 ubuntu-server-phase04 systemd[1]: Starting phase05-status-job.service - Phase 5 Status Job...
+ 3月 21 06:52:28 ubuntu-server-phase04 phase05-status-job.sh[11397]: [INFO] [systemd-timer] timestamp=2026-03-21 06:52:28 user=<x> pid=11397 pwd=/home/<x>
+ 3月 21 06:52:28 ubuntu-server-phase04 systemd[1]: phase05-status-job.service: Deactivated successfully.
+ 3月 21 06:52:28 ubuntu-server-phase04 systemd[1]: Finished phase05-status-job.service - Phase 5 Status Job.
+ 3月 21 06:53:14 ubuntu-server-phase04 systemd[1]: Starting phase05-status-job.service - Phase 5 Status Job...
+ 3月 21 06:53:14 ubuntu-server-phase04 phase05-status-job.sh[11403]: [INFO] [systemd-timer] timestamp=2026-03-21 06:53:14 user=<x> pid=11403 pwd=/home/<x>
+ 3月 21 06:53:14 ubuntu-server-phase04 systemd[1]: phase05-status-job.service: Deactivated successfully.
+ 3月 21 06:53:14 ubuntu-server-phase04 systemd[1]: Finished phase05-status-job.service - Phase 5 Status Job.
+ 3月 21 06:54:02 ubuntu-server-phase04 systemd[1]: Starting phase05-status-job.service - Phase 5 Status Job...
+ 3月 21 06:54:02 ubuntu-server-phase04 phase05-status-job.sh[11409]: [INFO] [systemd-timer] timestamp=2026-03-21 06:54:02 user=<x> pid=11409 pwd=/home/<x>
+ 3月 21 06:54:02 ubuntu-server-phase04 systemd[1]: phase05-status-job.service: Deactivated successfully.
+ 3月 21 06:54:02 ubuntu-server-phase04 systemd[1]: Finished phase05-status-job.service - Phase 5 Status Job.
+ 3月 21 06:55:00 ubuntu-server-phase04 systemd[1]: Starting phase05-status-job.service - Phase 5 Status Job...
+ 3月 21 06:55:00 ubuntu-server-phase04 phase05-status-job.sh[11439]: [INFO] [systemd-timer] timestamp=2026-03-21 06:55:00 user=<x> pid=11439 pwd=/home/<x>
+ 3月 21 06:55:00 ubuntu-server-phase04 systemd[1]: phase05-status-job.service: Deactivated successfully.
+ 3月 21 06:55:00 ubuntu-server-phase04 systemd[1]: Finished phase05-status-job.service - Phase 5 Status Job.
+ 3月 21 06:56:13 ubuntu-server-phase04 systemd[1]: Starting phase05-status-job.service - Phase 5 Status Job...
+ 3月 21 06:56:13 ubuntu-server-phase04 phase05-status-job.sh[11451]: [INFO] [systemd-timer] timestamp=2026-03-21 06:56:13 user=<x> pid=11451 pwd=/home/<x>
+ 3月 21 06:56:13 ubuntu-server-phase04 systemd[1]: phase05-status-job.service: Deactivated successfully.
+ 3月 21 06:56:13 ubuntu-server-phase04 systemd[1]: Finished phase05-status-job.service - Phase 5 Status Job.

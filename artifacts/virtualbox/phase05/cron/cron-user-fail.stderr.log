@@ -1,0 +1,9 @@
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:41:01 user=<x> pid=10823 reason=intentional_failure
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:42:01 user=<x> pid=10840 reason=intentional_failure
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:43:01 user=<x> pid=10863 reason=intentional_failure
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:44:01 user=<x> pid=10896 reason=intentional_failure
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:45:01 user=<x> pid=10924 reason=intentional_failure
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:46:01 user=<x> pid=10949 reason=intentional_failure
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:47:01 user=<x> pid=10980 reason=intentional_failure
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:48:01 user=<x> pid=11007 reason=intentional_failure
+[ERROR] [user-cron-fail] timestamp=2026-03-21 06:49:02 user=<x> pid=11027 reason=intentional_failure

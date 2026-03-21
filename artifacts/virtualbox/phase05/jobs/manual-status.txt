@@ -1,0 +1,1 @@
+[INFO] [manual-ok] timestamp=2026-03-21 06:32:30 user=<x> pid=10783 pwd=/home/<x>

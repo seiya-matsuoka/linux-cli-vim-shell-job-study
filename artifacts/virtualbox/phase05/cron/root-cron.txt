@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+* * * * * root /usr/local/bin/phase05-status-job.sh "root-cron" >> /srv/phase05/logs/root-cron-status.stdout.log 2>> /srv/phase05/logs/root-cron-status.stderr.log

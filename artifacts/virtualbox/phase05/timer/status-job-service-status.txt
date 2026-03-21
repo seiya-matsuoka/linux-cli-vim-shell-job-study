@@ -1,0 +1,12 @@
+○ phase05-status-job.service - Phase 5 Status Job
+     Loaded: loaded (/etc/systemd/system/phase05-status-job.service; static)
+     Active: inactive (dead) since Sat 2026-03-21 06:56:13 UTC; 20s ago
+TriggeredBy: ● phase05-status-job.timer
+    Process: 11451 ExecStart=/usr/local/bin/phase05-status-job.sh systemd-timer (code=exited, status=0/SUCCESS)
+   Main PID: 11451 (code=exited, status=0/SUCCESS)
+        CPU: 15ms
+
+ 3月 21 06:56:13 ubuntu-server-phase04 systemd[1]: Starting phase05-status-job.service - Phase 5 Status Job...
+ 3月 21 06:56:13 ubuntu-server-phase04 phase05-status-job.sh[11451]: [INFO] [systemd-timer] timestamp=2026-03-21 06:56:13 user=<x> pid=11451 pwd=/home/<x>
+ 3月 21 06:56:13 ubuntu-server-phase04 systemd[1]: phase05-status-job.service: Deactivated successfully.
+ 3月 21 06:56:13 ubuntu-server-phase04 systemd[1]: Finished phase05-status-job.service - Phase 5 Status Job.

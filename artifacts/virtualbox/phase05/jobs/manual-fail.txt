@@ -1,0 +1,1 @@
+[ERROR] [manual-fail] timestamp=2026-03-21 06:32:30 user=<x> pid=10788 reason=intentional_failure

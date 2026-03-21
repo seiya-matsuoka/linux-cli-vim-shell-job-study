@@ -1,0 +1,5 @@
+ 3月 21 06:54:42 ubuntu-server-phase04 systemd[1]: Starting phase05-failing-job.service - Phase 5 Failing Job...
+ 3月 21 06:54:42 ubuntu-server-phase04 phase05-failing-job.sh[11428]: [ERROR] [systemd-manual-fail] timestamp=2026-03-21 06:54:42 user=<x> pid=11428 reason=intentional_failure
+ 3月 21 06:54:42 ubuntu-server-phase04 systemd[1]: phase05-failing-job.service: Main process exited, code=exited, status=1/FAILURE
+ 3月 21 06:54:42 ubuntu-server-phase04 systemd[1]: phase05-failing-job.service: Failed with result 'exit-code'.
+ 3月 21 06:54:42 ubuntu-server-phase04 systemd[1]: Failed to start phase05-failing-job.service - Phase 5 Failing Job.

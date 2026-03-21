@@ -1,0 +1,13 @@
+[INFO] [phase05-lock] timestamp=2026-03-21 06:32:11 pid=10773 lock_acquired duration=5
+[INFO] [phase05-lock] timestamp=2026-03-21 06:32:17 pid=10773 job_completed
+[INFO] [phase05-lock] timestamp=2026-03-21 06:32:30 pid=10792 lock_acquired duration=3
+[INFO] [phase05-lock] timestamp=2026-03-21 06:32:34 pid=10792 job_completed
+[INFO] [phase05-lock] timestamp=2026-03-21 06:57:19 pid=11757 lock_acquired duration=120
+[WARN] [phase05-lock] timestamp=2026-03-21 06:57:53 pid=11764 lock_busy lock_file=/tmp/phase05-locking-job.lock
+[INFO] [phase05-lock] timestamp=2026-03-21 06:59:19 pid=11757 job_completed
+[INFO] [phase05-lock] timestamp=2026-03-21 06:59:59 pid=11779 lock_acquired duration=120
+[WARN] [phase05-lock] timestamp=2026-03-21 07:00:08 pid=11786 lock_busy lock_file=/tmp/phase05-locking-job.lock
+[WARN] [phase05-lock] timestamp=2026-03-21 07:01:59 pid=11779 signal_received=TERM
+[INFO] [phase05-lock] timestamp=2026-03-21 07:02:08 pid=11806 lock_acquired duration=120
+[WARN] [phase05-lock] timestamp=2026-03-21 07:02:28 pid=11813 lock_busy lock_file=/tmp/phase05-locking-job.lock
+[WARN] [phase05-lock] timestamp=2026-03-21 07:04:08 pid=11806 signal_received=TERM

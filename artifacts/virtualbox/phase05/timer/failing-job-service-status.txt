@@ -1,0 +1,12 @@
+× phase05-failing-job.service - Phase 5 Failing Job
+     Loaded: loaded (/etc/systemd/system/phase05-failing-job.service; static)
+     Active: failed (Result: exit-code) since Sat 2026-03-21 06:54:42 UTC; 1min 50s ago
+    Process: 11428 ExecStart=/usr/local/bin/phase05-failing-job.sh systemd-manual-fail (code=exited, status=1/FAILURE)
+   Main PID: 11428 (code=exited, status=1/FAILURE)
+        CPU: 53ms
+
+ 3月 21 06:54:42 ubuntu-server-phase04 systemd[1]: Starting phase05-failing-job.service - Phase 5 Failing Job...
+ 3月 21 06:54:42 ubuntu-server-phase04 phase05-failing-job.sh[11428]: [ERROR] [systemd-manual-fail] timestamp=2026-03-21 06:54:42 user=<x> pid=11428 reason=intentional_failure
+ 3月 21 06:54:42 ubuntu-server-phase04 systemd[1]: phase05-failing-job.service: Main process exited, code=exited, status=1/FAILURE
+ 3月 21 06:54:42 ubuntu-server-phase04 systemd[1]: phase05-failing-job.service: Failed with result 'exit-code'.
+ 3月 21 06:54:42 ubuntu-server-phase04 systemd[1]: Failed to start phase05-failing-job.service - Phase 5 Failing Job.
